@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}introduccion}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}aplicaciones}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}links de interes}{1}{subsection.1.2}
+\contentsline {section}{\numberline {2}Caso de estudio}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}dataset}{1}{subsection.2.1}
+\contentsline {section}{\numberline {3}Experimento}{1}{section.3}
+\contentsline {subsection}{\numberline {3.1}Pruebas}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Graficacion de los automatas celulares}{2}{subsection.3.2}
+\contentsline {section}{\numberline {4}repositorio}{3}{section.4}
+\contentsline {section}{\numberline {5}Conclusiones}{3}{section.5}
